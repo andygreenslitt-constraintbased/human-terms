@@ -26,6 +26,9 @@ Every companion uses four layers:
 | [Structural Synthesis: Admissible Movement](By_Document/Structural_Synthesis_Admissible_Movement_Human_Terms.md) | structural-synthesis-admissible-movement repo | ANCHOR_HELD | HIGH |
 | [Conversation Corral](By_Document/Conversation_Corral_Human_Terms.md) | local runtime component | ANCHOR_HELD | HIGH |
 | [First-Principles Admissibility](By_Document/First_Principles_Admissibility_Human_Terms.md) | first-principles-admissibility repo | ANCHOR_HELD | HIGH |
+| [Structured Synthesis Specification](By_Document/Structured_Synthesis_Specification_Human_Terms.md) | Structured-Synthesis-A-Unified-Publication-Grade-Specification repo | ANCHOR_HELD | MEDIUM |
+| [Supply Chain / Circulation-Decay Operations](By_Document/Supply_Chain_Circulation_Decay_Operations_Human_Terms.md) | local research files | ANCHOR_HELD | MEDIUM |
+| [Trivial Alignment](By_Document/Trivial_Alignment_Human_Terms.md) | trivial-alignment repo | ANCHOR_HELD | HIGH |
 
 ## Non-claims
 
