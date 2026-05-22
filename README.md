@@ -25,6 +25,7 @@ Every companion uses four layers:
 | [The Cost of Fabrication](By_Document/The_Cost_of_Fabrication_Human_Terms.md) | the-cost-of-fabrication repo | ANCHOR_HELD | HIGH |
 | [Structural Synthesis: Admissible Movement](By_Document/Structural_Synthesis_Admissible_Movement_Human_Terms.md) | structural-synthesis-admissible-movement repo | ANCHOR_HELD | HIGH |
 | [Conversation Corral](By_Document/Conversation_Corral_Human_Terms.md) | local runtime component | ANCHOR_HELD | HIGH |
+| [First-Principles Admissibility](By_Document/First_Principles_Admissibility_Human_Terms.md) | first-principles-admissibility repo | ANCHOR_HELD | HIGH |
 
 ## Non-claims
 
