@@ -29,6 +29,10 @@ Every companion uses four layers:
 | [Structured Synthesis Specification](By_Document/Structured_Synthesis_Specification_Human_Terms.md) | Structured-Synthesis-A-Unified-Publication-Grade-Specification repo | ANCHOR_HELD | MEDIUM |
 | [Supply Chain / Circulation-Decay Operations](By_Document/Supply_Chain_Circulation_Decay_Operations_Human_Terms.md) | local research files | ANCHOR_HELD | MEDIUM |
 | [Trivial Alignment](By_Document/Trivial_Alignment_Human_Terms.md) | trivial-alignment repo | ANCHOR_HELD | HIGH |
+| [Atlas Constraint Kernel](By_Document/Atlas_Constraint_Kernel_Human_Terms.md) | atlas-constraint-kernel repo | ANCHOR_HELD | HIGH |
+| [CAS Engine](By_Document/CAS_Engine_Human_Terms.md) | cas-engine repo | ANCHOR_HELD | HIGH |
+| [Passive Precision / Giza](By_Document/Passive_Precision_Giza_Human_Terms.md) | passive-precision-giza repo | DRIFT_RISK (simulation boundary) | HIGH |
+| [Wondering State Book](By_Document/wondering_state_book_Human_Terms.md) | wondering_state_book.pdf | ANCHOR_HELD | MEDIUM |
 
 ## Non-claims
 
